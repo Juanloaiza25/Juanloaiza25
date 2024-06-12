@@ -8,7 +8,6 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
 - Desarrollo web con HTML, CSS y JavaScript.
 - Programación en Python y C.
 - Uso de herramientas como Git y GitHub.
-- Desarrollo de aplicaciones móviles.
 
 ## 💻 Proyectos destacados
 

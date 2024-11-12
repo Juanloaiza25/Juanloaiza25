@@ -1,4 +1,4 @@
-# ¡Hola, soy Juanloaiza25! 👋
+# ¡Hola, soy Juan Diego Loaiza! 👋
 
 Un apasionado de la tecnología y un entusiasta del desarrollo de software. Actualmente, me encuentro estudiando Ingeniería de Sistemas y buscando expandir mis conocimientos en el mundo de la programación y la informática.
 Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.

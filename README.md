@@ -11,7 +11,7 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
 
 ## 💻 Proyectos destacados
 
-- Proximamente
+- <a href="https://github.com/Juanloaiza25/Space-invaders"> Clon de space invaders usando Java vanilla </a>
   
 ## 📚 Educación
 

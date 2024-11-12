@@ -6,7 +6,7 @@ Me encanta aprender nuevas tecnologías y trabajar en proyectos interesantes.
 ## 🚀 Mis habilidades
 
 - Desarrollo web con HTML, CSS y JavaScript.
-- Programación en Python y C.
+- Programación en Python y C, y Java
 - Uso de herramientas como Git y GitHub.
 
 ## 💻 Proyectos destacados
